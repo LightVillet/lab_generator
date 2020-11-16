@@ -1,0 +1,24 @@
+.bigBtns
+{
+	text-decoration: none;
+	font-family: Mulish;
+	font-size: 40px;
+	color: #344E5C;
+	background-color:#EEEEEE;
+	padding: 15px; 
+	margin: 20px;
+	border-radius: 20px;
+	height: 60px;
+	width: 120px;
+}
+.bigBtns:hover
+{
+	background:#B5DBED;
+}
+
+.bodyMain
+{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
